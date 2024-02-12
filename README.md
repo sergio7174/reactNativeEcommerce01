@@ -43,10 +43,16 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 
 ##  Key Features:
 
-- Choose Diferents Kinds of Recipes
-- See from Youtube the video Recipe
-- Get the List of Elements and preparation of Recipes
-- Choose Favorite Recipes
+Cart (List)
+Add To Cart
+Remove Cart
+Category
+Best Selling
+Payment Processor (RazorPay)
+Filters
+Product Review (Listing)
+Write Product Review
+Order History
 
   
 <br/>
@@ -63,7 +69,6 @@ This project was created using the following technologies.
 - [react-navigation/native](https://reactnavigation.org/)) - To handle routing
 - [RN - styled Components](https://styled-components.com/docs/basics) - Utilises tagged template literals to style your components
 - [React Redux-toolkit](https://react-redux.js.org/) - manage application state efficiently and provide a more structured mechanism for managing data
-- [Tailwind]
 
 ## Author
 - Portfolio: 
