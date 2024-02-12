@@ -63,8 +63,7 @@ This project was created using the following technologies.
 
 ####  Frontend 
 
-- [React Native ]
- It is a framework developed by Facebook for creating native-style apps for iOS & Android under one common language, JavaScript.
+- [React Native ]() - It is a framework developed by Facebook for creating native-style apps for iOS & Android under one common language, JavaScript.
 - [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
 - [react-navigation/native](https://reactnavigation.org/)) - To handle routing
 - [RN - styled Components](https://styled-components.com/docs/basics) - Utilises tagged template literals to style your components
