@@ -18,7 +18,7 @@ In order to run this project locally, simply fork and clone the repository or do
 - Go to terminal -> New terminal (If you are using VS code)
 
 ```
-$ cd client
+$ cd client 
 $ npm install (to install client-side dependencies)
 $ npx expo start -c  (to start the application - cleaning Cache Memory)
 
