@@ -1,4 +1,4 @@
-<h1 align ="center" > 🏆 reactNativeEcommerce - React-Native-Ecommerce  </h1>
+<h1 align ="center" > 🖥️ 📸 📱 🤖 - React-Native-Ecommerce  </h1>
 <h3  align ="center"> 
 A boilerplate for a ecommerce mobile app using React Native and Redux. IOs and Android </h3>
 <br>
@@ -33,7 +33,6 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 ![Static Badge](https://img.shields.io/badge/expo-%23E89F28?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/axios-%23D1D1D1?style=for-the-badge)
 
-<br>
 ##  Screenshots:
 <br>
 <img src="./PROJECT IMAGES/IMAGE01.jpg" alt="project screenshot01" />
